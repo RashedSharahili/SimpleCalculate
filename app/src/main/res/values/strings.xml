@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleCalculate</string>
+    <string name="result_txt">Result of %s %s %s is %s</string>
+    <string name="num1">Enter First Number</string>
+    <string name="num2">Enter Second Number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="division">/</string>
+    <string name="calculate">Calculate</string>
+</resources>

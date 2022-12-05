@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الحاسبة البسيطة</string>
+    <string name="result_txt">نتيجة %s %s %s هي %s</string>
+    <string name="num1">أدخل الرقم الأول</string>
+    <string name="num2">أدخل الرقم الثاني</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="division">/</string>
+    <string name="calculate">أحسب</string>
+</resources>
